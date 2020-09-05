@@ -1,0 +1,8 @@
+2020/09/05-13:55:18.903 20f0 Reusing MANIFEST C:\Users\JD\Desktop\youtube_assistant\selenium\Default\IndexedDB\https_tpc.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/05-13:55:18.904 20f0 Recovering log #7
+2020/09/05-13:55:18.904 20f0 Reusing old log C:\Users\JD\Desktop\youtube_assistant\selenium\Default\IndexedDB\https_tpc.googlesyndication.com_0.indexeddb.leveldb/000007.log 
+2020/09/05-13:55:28.792 3e1c Level-0 table #11: started
+2020/09/05-13:55:28.792 3e1c Level-0 table #11: 0 bytes OK
+2020/09/05-13:55:28.851 3e1c Delete type=0 #7
+2020/09/05-13:55:28.851 3e1c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/05-13:55:28.851 3e1c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

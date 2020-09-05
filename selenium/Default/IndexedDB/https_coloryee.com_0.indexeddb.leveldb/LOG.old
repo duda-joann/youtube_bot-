@@ -1,0 +1,5 @@
+2020/09/05-17:09:51.175 87c Reusing MANIFEST C:\Users\JD\Desktop\youtube_assistant\selenium\Default\IndexedDB\https_coloryee.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/05-17:10:26.219 3e1c Level-0 table #5: started
+2020/09/05-17:10:26.270 3e1c Level-0 table #5: 5239 bytes OK
+2020/09/05-17:10:26.312 3e1c Delete type=0 #3
+2020/09/05-17:10:26.313 3e1c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

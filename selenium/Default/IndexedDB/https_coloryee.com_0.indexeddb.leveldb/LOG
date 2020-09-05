@@ -1,0 +1,15 @@
+2020/09/05-17:15:32.005 3118 Reusing MANIFEST C:\Users\JD\Desktop\youtube_assistant\selenium\Default\IndexedDB\https_coloryee.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/05-17:15:32.006 3118 Recovering log #4
+2020/09/05-17:15:32.007 3118 Reusing old log C:\Users\JD\Desktop\youtube_assistant\selenium\Default\IndexedDB\https_coloryee.com_0.indexeddb.leveldb/000004.log 
+2020/09/05-17:16:17.195 3e1c Level-0 table #8: started
+2020/09/05-17:16:17.309 3e1c Level-0 table #8: 106002 bytes OK
+2020/09/05-17:16:17.398 3e1c Delete type=0 #4
+2020/09/05-17:16:17.399 3e1c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/05-17:16:17.399 3e1c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00 \xc6f\xedEwB\x00\x01r\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00c\x00o\x00l\x00o\x00r\x00y\x00e\x00e\x00.\x00c\x00o\x00m\x00/\x00i\x00m\x00a\x00g\x00e\x00_\x00c\x00a\x00c\x00h\x00e\x00/\x00r\x00e\x00s\x00i\x00z\x00e\x00/\x003\x003\x005\x00x\x004\x004\x005\x00/\x00i\x00m\x00a\x00g\x00e\x00/\x00c\x00a\x00t\x00a\x00l\x00o\x00g\x00/\x00p\x00r\x00o\x00d\x00u\x00c\x00t\x00/\x002\x000\x002\x000\x00-\x000\x008\x00-\x002\x000\x00/\x001\x00-\x001\x005\x009\x007\x009\x000\x003\x002\x002\x007\x007\x004\x007\x00.\x00j\x00p\x00e\x00g' @ 2674 : 1
+2020/09/05-17:16:17.399 3e1c Compacting 1@1 + 1@2 files
+2020/09/05-17:16:17.492 3e1c Generated table #9@1: 606 keys, 59748 bytes
+2020/09/05-17:16:17.492 3e1c Compacted 1@1 + 1@2 files => 59748 bytes
+2020/09/05-17:16:17.521 3e1c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/05-17:16:17.522 3e1c Delete type=2 #5
+2020/09/05-17:16:17.522 3e1c Delete type=2 #8
+2020/09/05-17:16:17.522 3e1c Manual compaction at level-1 from '\x00\x01\x01 \x03\x00 \xc6f\xedEwB\x00\x01r\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00c\x00o\x00l\x00o\x00r\x00y\x00e\x00e\x00.\x00c\x00o\x00m\x00/\x00i\x00m\x00a\x00g\x00e\x00_\x00c\x00a\x00c\x00h\x00e\x00/\x00r\x00e\x00s\x00i\x00z\x00e\x00/\x003\x003\x005\x00x\x004\x004\x005\x00/\x00i\x00m\x00a\x00g\x00e\x00/\x00c\x00a\x00t\x00a\x00l\x00o\x00g\x00/\x00p\x00r\x00o\x00d\x00u\x00c\x00t\x00/\x002\x000\x002\x000\x00-\x000\x008\x00-\x002\x000\x00/\x001\x00-\x001\x005\x009\x007\x009\x000\x003\x002\x002\x007\x007\x004\x007\x00.\x00j\x00p\x00e\x00g' @ 2674 : 1 .. (end); will stop at (end)

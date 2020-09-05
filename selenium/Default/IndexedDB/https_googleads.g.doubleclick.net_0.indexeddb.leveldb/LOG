@@ -1,0 +1,5 @@
+2020/09/05-15:19:12.443 3b84 Reusing MANIFEST C:\Users\JD\Desktop\youtube_assistant\selenium\Default\IndexedDB\https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/05-15:19:20.477 3e1c Level-0 table #5: started
+2020/09/05-15:19:20.552 3e1c Level-0 table #5: 385 bytes OK
+2020/09/05-15:19:20.599 3e1c Delete type=0 #3
+2020/09/05-15:19:20.599 3e1c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
