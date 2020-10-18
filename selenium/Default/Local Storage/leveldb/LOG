@@ -1,3 +1,14 @@
-2020/09/05-20:36:22.885 638 Reusing MANIFEST C:\Users\JD\Desktop\youtube_assistant\selenium\Default\Local Storage\leveldb/MANIFEST-000001
-2020/09/05-20:36:22.886 638 Recovering log #14
-2020/09/05-20:36:22.887 638 Reusing old log C:\Users\JD\Desktop\youtube_assistant\selenium\Default\Local Storage\leveldb/000014.log 
+2020/10/18-17:56:27.149 2dec Reusing MANIFEST C:\Users\JD\Desktop\youtube_assistant\selenium\Default\Local Storage\leveldb/MANIFEST-000001
+2020/10/18-17:56:27.150 2dec Recovering log #23
+2020/10/18-17:56:27.150 2dec Level-0 table #26: started
+2020/10/18-17:56:27.270 2dec Level-0 table #26: 17024 bytes OK
+2020/10/18-17:56:27.303 2dec Delete type=0 #23
+2020/10/18-17:56:27.304 2478 Compacting 4@0 + 1@1 files
+2020/10/18-17:56:27.439 2478 Generated table #28@0: 129 keys, 287328 bytes
+2020/10/18-17:56:27.439 2478 Compacted 4@0 + 1@1 files => 287328 bytes
+2020/10/18-17:56:27.536 2478 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/18-17:56:27.537 2478 Delete type=2 #15
+2020/10/18-17:56:27.537 2478 Delete type=2 #17
+2020/10/18-17:56:27.537 2478 Delete type=2 #20
+2020/10/18-17:56:27.538 2478 Delete type=2 #24
+2020/10/18-17:56:27.538 2478 Delete type=2 #26
